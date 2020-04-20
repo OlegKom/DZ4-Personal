@@ -31,15 +31,13 @@ public class Main {
 			people[i].printInfo2();
 		}
 
-		System.out.println("\nПовысить сотрудникам зп на 5000р");
-		for (int i = 0; i < people.length; i++) {
-			if (people[i].getAge() >= 45){
-				people[i].getSalaryUp();
-				people[i].printInfo();
-			}
-
-
-		}
+//		System.out.println("\nПовысить сотрудникам зп на 5000р");
+//		for (int i = 0; i < people.length; i++) {
+//			if (people[i].getAge() >= 45){
+//				people[i].getSalaryUp();
+//				people[i].printInfo();
+//			}
+		
 
 	}
 
