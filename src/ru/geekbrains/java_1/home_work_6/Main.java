@@ -1,4 +1,4 @@
-package ru.geekbrains.home_work_6;
+package ru.geekbrains.java_1.home_work_6;
 
 import java.io.*;
 import java.util.Scanner;

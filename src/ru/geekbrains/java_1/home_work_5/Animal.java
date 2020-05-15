@@ -1,4 +1,4 @@
-package ru.geekbrains.home_work_5;
+package ru.geekbrains.java_1.home_work_5;
 
 public class Animal {
     protected final String name;

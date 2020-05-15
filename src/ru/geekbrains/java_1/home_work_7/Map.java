@@ -1,4 +1,4 @@
-package ru.geekbrains.home_work_7;
+package ru.geekbrains.java_1.home_work_7;
 
 import javax.swing.*;
 import java.awt.*;
