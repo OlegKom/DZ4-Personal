@@ -1,7 +1,5 @@
-package ru.geekbrains.home_work_4;
+package ru.geekbrains.java_1.home_work_4;
 
-
-import java.util.Arrays;
 
 public class Main {
 
